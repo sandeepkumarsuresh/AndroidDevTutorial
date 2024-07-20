@@ -4,3 +4,6 @@
 [submodule "basic-android-kotlin-compose-training-affirmations"]
 	path = basic-android-kotlin-compose-training-affirmations
 	url = https://github.com/google-developer-training/android-basics-kotlin-affirmations-app-solution.git
+[submodule "basic-android-kotlin-compose-training-dessert-clicker"]
+	path = basic-android-kotlin-compose-training-dessert-clicker
+	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-dessert-clicker.git
